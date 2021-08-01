@@ -1,5 +1,5 @@
 
-# about_me_cli
+# harry_potter_quiz_app
 
 A brief description of what this project does and who it's for
 
